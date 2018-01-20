@@ -25,4 +25,4 @@ and `npm run start-ios` respectively.
 
 ## Built With
 * [React Native](https://facebook.github.io/react-native/) - Create Mobile Apps using JavaScript and React 
-* [React Native for Web](https://github.com/necolas/react-native-web) - Database connection driver
+* [React Native for Web](https://github.com/necolas/react-native-web) - React Native Web module
