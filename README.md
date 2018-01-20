@@ -1,11 +1,12 @@
 # React Native Mobile and Web Boilerplate Code
 This project is simple Boilerplate with minimal configuration
-allowing for concurrent Web and Android development with
+allowing for concurrent Web, Android, and iOS development with
 an example index.js and App.js file.
 
 All credits goes to the React Native for Web developers, this
 is just to reduce the amount of configuration to allow for
-modules like `react-scripts` to run alongside `react-native`.
+modules like `react-scripts` from `react-native-web
+to run alongside `react-native`.
 
 ## Getting Started
 
